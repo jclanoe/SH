@@ -56,4 +56,3 @@
         To read the documentation, please type
         ./configure && make doc
         firefox doc/html/index.html &
-
